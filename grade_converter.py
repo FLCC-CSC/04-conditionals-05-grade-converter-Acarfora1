@@ -1,7 +1,7 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
+# NAME: Alex Carfora
+# DATE: 10/1/25
 # BRIEF DESCRIPTION:  
 
 
